@@ -1,2 +1,2 @@
 # OneIMTM
-One Identity Manager Transport Manager
+One Identity Manager Transporter
